@@ -1,0 +1,15 @@
+OrderID,Date,Customer,Region,Sales,Category
+1001,2024-05-01,Amit,West,1200.0,Electronics
+1002,2024-05-01,Riya,North,1600.0,Furniture
+1003,2024-05-01,Arjun,South,850.0,Electronics
+1004,2024-05-01,Neha,West,1400.0,Furniture
+1005,2024-10-01,Karan,East,2000.0,Technology
+1006,2024-10-01,Meera,North,1600.0,Technology
+1007,2024-10-01,Unknown,South,1750.0,Electronics
+1008,2024-10-01,John,West,1300.0,Furniture
+1009,2024-10-01,Priya,North,1600.0,Furniture
+1010,2024-10-01,Rahul,South,1900.0,Electronics
+1011,2024-10-01,Sneha,Unknown,2100.0,Technology
+1012,2024-10-01,David,West,1500.0,Furniture
+1013,2024-10-01,Anjali,North,1600.0,Electronics
+1014,2024-10-01,Vikram,East,2200.0,Technology
